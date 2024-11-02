@@ -14,9 +14,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Verifique se baixou o back-End em https://github.com/GustavoRanieli/Projeto_Nex_BackEnd
 * Subiu o banco de dados Sql localizado dentro do back-end
 
-## ☕ Usando <Teste Nex>
+## ☕ Usando <nome_do_projeto>
 
-Para usar <Teste Nex>, siga estas etapas:
+Para usar <nome_do_projeto, siga estas etapas:
 
 ```
 - Npm i
